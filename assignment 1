@@ -1,0 +1,11 @@
+=input().split()
+s=[]
+for i in l:
+    s.append(int(i))
+res=[sorted(s).index(x)+1for x in s]
+print(res)
+output:-
+638 22 38 49 52 106 8 5 39 42 
+[10, 3, 4, 7, 8, 9, 2, 1, 5, 6]
+
+
