@@ -1,4 +1,4 @@
-=input().split()
+i=input().split()
 s=[]
 for i in l:
     s.append(int(i))
